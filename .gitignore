@@ -1,0 +1,17 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+
+# Backend (Java)
+backend/target/
+backend/.gradle/
+backend/build/
+backend/.env
+backend/*.class
+
+# IDE configurations
+.idea/
+.vscode/
+*.iml
